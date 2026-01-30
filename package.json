@@ -1,0 +1,10 @@
+{
+  "name": "rockin-rockin-boogie",
+  "version": "1.0.0",
+  "description": "Rockin' Rockin' Boogie - A Legacy Restored",
+  "private": true,
+  "scripts": {
+    "dev": "npx http-server . -p 3000 -g",
+    "build": "echo 'Static site - no build needed'"
+  }
+}
