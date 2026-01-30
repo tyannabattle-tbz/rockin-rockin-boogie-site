@@ -4,7 +4,7 @@
   "description": "Rockin' Rockin' Boogie - A Legacy Restored",
   "private": true,
   "scripts": {
-    "dev": "npx http-server . -p 3000 -g",
-    "build": "echo 'Static site - no build needed'"
+    "dev": "npx http-server dist -p 3000 -g",
+    "build": "echo 'Static site'"
   }
 }
